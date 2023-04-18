@@ -1,0 +1,31 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #fcfcfc;
+    font-size: 13pt;
+}
+
+div.center {
+    width: fit-content;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img#profile {
+    border-radius: 50%;
+    width: 150px;
+}
+
+button#btn-linkedin {
+    border: none;
+}
+
+img#linkedin {
+    width: 115px;
+    border-radius: 10px;
+}
+
+div.links {
+    padding-top: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
